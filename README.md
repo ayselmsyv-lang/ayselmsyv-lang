@@ -7,6 +7,8 @@ Computer Science student interested in Backend Development and Python.
 - PostgreSQL
 - SQL
 - C / C++
+- Git
+- Linux (basic)
 
 ## Interests
 - Backend Development
