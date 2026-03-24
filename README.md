@@ -2,6 +2,8 @@
 
 Computer Science student interested in Backend Development and Python.
 
+Here is my portfolio: https://ayselmsyv-backend-ml-sff585t.gamma.site/
+
 ## Skills
 - Python
 - PostgreSQL
