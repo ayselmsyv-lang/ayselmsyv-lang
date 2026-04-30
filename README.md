@@ -16,3 +16,4 @@ Here is my portfolio: https://ayselmsyv-backend-ml-sff585t.gamma.site/
 - Backend Development
 - Database Systems
 - High Performance Computing
+- Machine Learning
