@@ -8,6 +8,7 @@ Here is my portfolio: https://ayselmsyv-backend-ml-sff585t.gamma.site/
 - Python
 - PostgreSQL
 - SQL
+- FastAPI
 - C / C++
 - Git
 - Linux (basic)
