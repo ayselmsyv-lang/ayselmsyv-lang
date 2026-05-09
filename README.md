@@ -2,7 +2,7 @@
 
 Computer Science student interested in Backend Development and Python.
 
-Here is my portfolio: https://ayselmsyv-backend-ml-sff585t.gamma.site/
+Here is my portfolio: https://ayselmsyv-lang.github.io/
 
 ## Skills
 - Python
