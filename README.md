@@ -21,8 +21,8 @@ Here is my portfolio: https://ayselmsyv-lang.github.io/
 - Prompt Engineering Fundamentals
 
 ## 🔬 Research Interests
-• Distributed Machine Learning
-• CNN-based Image Classification
-• Transfer Learning
-• Medical AI Applications
-• High Performance Computing
+- Distributed Machine Learning
+- CNN-based Image Classification
+- Transfer Learning
+- Medical AI Applications
+- High Performance Computing
