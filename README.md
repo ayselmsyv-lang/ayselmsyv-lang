@@ -26,3 +26,7 @@ Here is my portfolio: https://ayselmsyv-lang.github.io/
 - Transfer Learning
 - Medical AI Applications
 - High Performance Computing
+
+## Competitive Programming
+- Solved 250+ algorithmic problems on Eolymp
+- Practicing Data Structures & Algorithms on LeetCode
