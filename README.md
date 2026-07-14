@@ -1,20 +1,28 @@
 # Hi, I'm Aysel Musayeva 👋
 
-Computer Science student interested in Backend Development and Python.
+Computer Science student interested in Backend Development, High Performance Computing and Machine Learning research.
 
 Here is my portfolio: https://ayselmsyv-lang.github.io/
 
 ## Skills
 - Python
 - PostgreSQL
-- SQL
+- MSSQL
 - FastAPI
 - C / C++
 - Git
 - Linux (basic)
 
-## Interests
-- Backend Development
-- Database Systems
-- High Performance Computing
-- Machine Learning
+## AI & ML
+- Machine Learning Fundamentals
+- Deep Learning Fundamentals
+- Computer Vision Basics
+- Generative AI Concepts
+- Prompt Engineering Fundamentals
+
+## 🔬 Research Interests
+• Distributed Machine Learning
+• CNN-based Image Classification
+• Transfer Learning
+• Medical AI Applications
+• High Performance Computing
