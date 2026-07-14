@@ -1,6 +1,6 @@
 # Hi, I'm Aysel Musayeva 👋
 
-Computer Science student interested in Backend Development, High Performance Computing and Machine Learning research.
+Computer Science student interested in Backend Development, Distributed Systems, High Performance Computing, and Machine Learning Research.
 
 Here is my portfolio: https://ayselmsyv-lang.github.io/
 
