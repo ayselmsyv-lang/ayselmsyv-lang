@@ -2,7 +2,7 @@
 
 Computer Science student interested in Backend Development, Distributed Systems, High Performance Computing, and Machine Learning Research.
 
-Here is my portfolio: https://ayselmsyv.github.io/
+Here is my portfolio: https://github.com/ayselmsyv/ayselmsyv.github.io
 
 ## Skills
 - Python
