@@ -11,7 +11,7 @@ Here is my portfolio: https://ayselmsyv.github.io/
 - FastAPI
 - C / C++
 - Git
-- Linux (basic)
+- Linux 
 
 ## AI & ML
 - Machine Learning Fundamentals
